@@ -24,3 +24,8 @@ http://ta-lib.org/
 ## Data Sets
 
 * [Stack Exchange Dumps](https://archive.org/download/stackexchange)
+
+
+## Trello
+
+* [Trello Chrome Extensions](http://blog.trello.com/big-list-of-trello-chrome-extensions?utm_source=email&utm_medium=newsletter&utm_campaign=March2017_newsletter2)
