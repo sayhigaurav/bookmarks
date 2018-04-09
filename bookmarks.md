@@ -5,6 +5,10 @@
 [Design Patterns in Java core libraries](http://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries)
 [Fowler - Catalog of Patterns of ENterprise Application Architecture](http://martinfowler.com/eaaCatalog/index.html)
 
+#### Vulnerability Database
+[Exploit Database](https://www.exploit-db.com/)
+[HPI Vulnerability Database](https://hpi-vdb.de/vulndb/)
+
 #### Application Development
 
 [JHipster](http://www.jhipster.tech/)
