@@ -2,12 +2,14 @@
 [Big-O Complexity Chart](http://bigocheatsheet.com/)
 
 #### Design Patterns
-[Design Patterns in Java core libraries](http://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries)
-[Fowler - Catalog of Patterns of ENterprise Application Architecture](http://martinfowler.com/eaaCatalog/index.html)
+- [Design Patterns in Java core libraries](http://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries)
+- [Fowler - Catalog of Patterns of ENterprise Application Architecture](http://martinfowler.com/eaaCatalog/index.html)
+- [Java Design Patterns](http://java-design-patterns.com/)
+- [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 #### Vulnerability Database
-[Exploit Database](https://www.exploit-db.com/)
-[HPI Vulnerability Database](https://hpi-vdb.de/vulndb/)
+- [Exploit Database](https://www.exploit-db.com/)
+- [HPI Vulnerability Database](https://hpi-vdb.de/vulndb/)
 
 #### Application Development
 
