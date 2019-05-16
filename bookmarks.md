@@ -1,5 +1,5 @@
 #### Algorithms
-[Big-O Complexity Chart](http://bigocheatsheet.com/)
+- [Big-O Complexity Chart](http://bigocheatsheet.com/)
 
 #### Angular
 - [ngconf talks - 2019](https://nitayneeman.com/posts/all-talks-from-ng-conf-2019/)
