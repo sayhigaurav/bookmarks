@@ -18,6 +18,7 @@
 
 #### Life Hacking
 - [Life Hacking](https://alexvermeer.com/life-hacking/)
+- [8000 Hours](https://80000hours.org/)
 
 #### Python | Flask
 * [Full stack python flask tutorial](http://www.fullstackpython.com/flask.html)
