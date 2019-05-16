@@ -16,9 +16,8 @@
 #### GO
 - [Golang basics](https://yourbasic.org/golang/)
 
-#### Vulnerability Database
-- [Exploit Database](https://www.exploit-db.com/)
-- [HPI Vulnerability Database](https://hpi-vdb.de/vulndb/)
+#### Life Hacking
+- [Life Hacking](https://alexvermeer.com/life-hacking/)
 
 #### Python | Flask
 * [Full stack python flask tutorial](http://www.fullstackpython.com/flask.html)
@@ -27,14 +26,17 @@
 #### Semantic Technologies
 https://www.cambridgesemantics.com/semantic-university/getting-started-semantics
 
-## Technical Analysis
-* [Journal of Technical Analysis](https://www.mta.org/development/journal-of-technical-analysis/)
-* [Technically Speaking](https://www.mta.org/development/technically-speaking)
-* [Educational Series](https://www.mta.org/development/educational-web-series/)
+#### Vulnerability Database
+- [Exploit Database](https://www.exploit-db.com/)
+- [HPI Vulnerability Database](https://hpi-vdb.de/vulndb/)
 
 ## Data Sets
 * [Stack Exchange Dumps](https://archive.org/download/stackexchange)
 
+## Technical Analysis
+* [Journal of Technical Analysis](https://www.mta.org/development/journal-of-technical-analysis/)
+* [Technically Speaking](https://www.mta.org/development/technically-speaking)
+* [Educational Series](https://www.mta.org/development/educational-web-series/)
 
 ## Trello
 * [Trello Chrome Extensions](http://blog.trello.com/big-list-of-trello-chrome-extensions?utm_source=email&utm_medium=newsletter&utm_campaign=March2017_newsletter2)
