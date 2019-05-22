@@ -4,8 +4,9 @@
 #### Angular
 - [ngconf talks - 2019](https://nitayneeman.com/posts/all-talks-from-ng-conf-2019/)
 
-#### API Design
+#### API Design & Development
 - [Design APIs like you design User Experience](https://medium.com/better-practices/design-apis-like-you-design-user-experience-a7adeb2ee90f)
+- [API Development tools](https://github.com/yosriady/api-development-tools)
 
 #### Conferences
 - [Distributed and Event-Based Systems (DEBS)](https://debs.org/debs-conferences/)
@@ -15,6 +16,9 @@
 - [Fowler - Catalog of Patterns of Enterprise Application Architecture](http://martinfowler.com/eaaCatalog/index.html)
 - [Java Design Patterns](http://java-design-patterns.com/)
 - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+
+#### Domain Driven Design
+- [Awesome DDD](https://github.com/binhnguyennus/awesome-ddd
 
 #### GO
 - [Golang basics](https://yourbasic.org/golang/)
