@@ -7,6 +7,9 @@
 #### API Design
 - [Design APIs like you design User Experience](https://medium.com/better-practices/design-apis-like-you-design-user-experience-a7adeb2ee90f)
 
+#### Conferences
+- [Distributed and Event-Based Systems (DEBS)](https://debs.org/debs-conferences/)
+
 #### Design Patterns
 - [Design Patterns in Java core libraries](http://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries)
 - [Fowler - Catalog of Patterns of ENterprise Application Architecture](http://martinfowler.com/eaaCatalog/index.html)
