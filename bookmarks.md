@@ -12,7 +12,7 @@
 
 #### Design Patterns
 - [Design Patterns in Java core libraries](http://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries)
-- [Fowler - Catalog of Patterns of ENterprise Application Architecture](http://martinfowler.com/eaaCatalog/index.html)
+- [Fowler - Catalog of Patterns of Enterprise Application Architecture](http://martinfowler.com/eaaCatalog/index.html)
 - [Java Design Patterns](http://java-design-patterns.com/)
 - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 
