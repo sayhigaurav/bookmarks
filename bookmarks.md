@@ -34,6 +34,12 @@
 #### Semantic Technologies
 https://www.cambridgesemantics.com/semantic-university/getting-started-semantics
 
+#### Startup Investing
+* [The Founder’s Guide to Understanding Investors](https://www.atrium.co/blog/startup-investors/)
+
+#### Typography
+* [Typography Terms](https://www.nngroup.com/articles/typography-terms-ux/)
+
 #### Vulnerability Database
 - [Exploit Database](https://www.exploit-db.com/)
 - [HPI Vulnerability Database](https://hpi-vdb.de/vulndb/)
