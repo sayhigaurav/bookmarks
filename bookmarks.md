@@ -18,7 +18,7 @@
 - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 #### Domain Driven Design
-- [Awesome DDD](https://github.com/binhnguyennus/awesome-ddd
+- [Awesome DDD](https://github.com/binhnguyennus/awesome-ddd)
 
 #### GO
 - [Golang basics](https://yourbasic.org/golang/)
