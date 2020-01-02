@@ -27,6 +27,16 @@
 - [Life Hacking](https://alexvermeer.com/life-hacking/)
 - [8000 Hours](https://80000hours.org/)
 
+#### OCR
+- [OCR-as-a-Service using Tesseract and Docker](https://github.com/tleyden/open-ocr)
+- [OCR recognition with Ocropus in a Docker container](https://github.com/kba/docker-ocropy)
+- [Awesome OCR list](https://github.com/kba/awesome-ocr)
+- [OCR - Number Plate Recognition](https://github.com/oesmith/OpenANPR)
+- [Neural Net based Number Plate Recognition](https://github.com/matthewearl/deep-anpr)
+- [Indian - Number Plate Recognition](https://github.com/anuj-badhwar/Indian-Number-Plate-Recognition-System)
+- [DataSet - Number Plates](https://github.com/hngi/Plate-Number-Classification)
+- [DataSet - SUN for scene recogniton](http://groups.csail.mit.edu/vision/SUN/)
+
 #### Python | Flask
 * [Full stack python flask tutorial](http://www.fullstackpython.com/flask.html)
 * [Twilio Appointments App](https://www.twilio.com/docs/tutorials/walkthrough/appointment-reminders/python/flask#0)
