@@ -1,5 +1,10 @@
-#### Algorithms
+#### Algorithms/ Data Structures
 - [Big-O Complexity Chart](http://bigocheatsheet.com/)
+- [https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [50-data-structure-and-algorithms-interview-questions-for-programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+- [https://javarevisited.blogspot.com/2017/07/top-10-linked-list-coding-questions-and.html#axzz4xXS86IVo](https://javarevisited.blogspot.com/2017/07/top-10-linked-list-coding-questions-and.html#axzz4xXS86IVo)
+- https://javarevisited.blogspot.com/2015/06/top-20-array-interview-questions-and-answers.html#axzz4tUeeQOAU
+- https://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html
 
 #### Angular
 - [ngconf talks - 2019](https://nitayneeman.com/posts/all-talks-from-ng-conf-2019/)
@@ -46,6 +51,19 @@ https://www.cambridgesemantics.com/semantic-university/getting-started-semantics
 
 #### Startup Investing
 * [The Founder’s Guide to Understanding Investors](https://www.atrium.co/blog/startup-investors/)
+
+#### System Design
+* [https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f](https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f)
+* [https://github.com/lei-hsia/grokking-system-design](https://github.com/lei-hsia/grokking-system-design)
+* [https://github.com/shashank88/system_design](https://github.com/shashank88/system_design)
+* [https://gist.github.com/vasanthk/485d1c25737e8e72759f](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+* [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+* [how-not-to-design-netflix-in-your-45-minute-system-design-interview-64953391a054](https://hackernoon.com/how-not-to-design-netflix-in-your-45-minute-system-design-interview-64953391a054)
+* [https://www.educative.io/courses/grokking-the-system-design-interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+* [Youtube Playlist - System Design](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV)
+* [Youtube Playlist - Grokking System Design](https://www.youtube.com/playlist?list=PL73KFetZlkJSZ9vTDSJ1swZhe6CIYkqTL)
+* []()
+
 
 #### Typography
 * [Typography Terms](https://www.nngroup.com/articles/typography-terms-ux/)
