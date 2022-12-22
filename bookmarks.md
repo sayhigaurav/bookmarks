@@ -5,6 +5,8 @@
 - [https://javarevisited.blogspot.com/2017/07/top-10-linked-list-coding-questions-and.html#axzz4xXS86IVo](https://javarevisited.blogspot.com/2017/07/top-10-linked-list-coding-questions-and.html#axzz4xXS86IVo)
 - https://javarevisited.blogspot.com/2015/06/top-20-array-interview-questions-and-answers.html#axzz4tUeeQOAU
 - https://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html
+- [H3: Uber’s Hexagonal Hierarchical Spatial Index](https://www.uber.com/en-IN/blog/h3/)
+- [How to Rock the Coding Interview](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/?ref=hackernoon.com)
 
 #### Angular
 - [ngconf talks - 2019](https://nitayneeman.com/posts/all-talks-from-ng-conf-2019/)
@@ -13,14 +15,27 @@
 - [Design APIs like you design User Experience](https://medium.com/better-practices/design-apis-like-you-design-user-experience-a7adeb2ee90f)
 - [API Development tools](https://github.com/yosriady/api-development-tools)
 
+
+#### Clean code
+- [Refactoring.guru](https://refactoring.guru/)
+
 #### Conferences
 - [Distributed and Event-Based Systems (DEBS)](https://debs.org/debs-conferences/)
+- [Awesome Talks](https://github.com/JanVanRyswyck/awesome-talks)
 
 #### Design Patterns
 - [Design Patterns in Java core libraries](http://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries)
 - [Fowler - Catalog of Patterns of Enterprise Application Architecture](http://martinfowler.com/eaaCatalog/index.html)
 - [Java Design Patterns](http://java-design-patterns.com/)
 - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+- [Dzone - Refcard](https://www.se.rit.edu/~swen-383/resources/RefCardz/designpatterns.pdf)
+- [Refactoring.guru - Design Patterns](https://refactoring.guru/design-patterns)
+
+#### Distributed Systems
+- [Martin Klepmann - Lecture series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+- [Martin Klepmann - Lecture notes](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf)
+- [Martin Klepmann - Lecture handouts](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-handout.pdf)
+- [Distributed architecture concepts I learned while building a large payments system](https://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/#sharding-and-quorum)
 
 #### Domain Driven Design
 - [Awesome DDD](https://github.com/binhnguyennus/awesome-ddd)
